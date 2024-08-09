@@ -5,7 +5,7 @@ const input = document.getElementById('link-input');
 const linkForm = document.getElementById('link-form');
 const errMsg = document.getElementById('err-msg');
 
-// btn.addEventListener('click', navToggle)
+btn.addEventListener('click', navToggle);
 linkForm.addEventListener('submit', formSubmit);
 
 // Toggle Mobile Menu
