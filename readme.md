@@ -15,3 +15,4 @@
 - [`Shortly`](tailwind-website-projects/shortly)
 - [`Testimonial grid`](tailwind-website-projects/testimonial-grid)
 - [`Fylo`](tailwind-website-projects/fylo)
+- [`Bookmark`](tailwind-website-projects/bookmark)
