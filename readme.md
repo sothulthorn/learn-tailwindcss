@@ -13,3 +13,4 @@
 - [`Clipboard`](tailwind-website-projects/clipboard)
 - [`Loopstudios`](tailwind-website-projects/loopstudios)
 - [`Shortly`](tailwind-website-projects/shortly)
+- [`Testimonial grid`](tailwind-website-projects/testimonial-grid)
